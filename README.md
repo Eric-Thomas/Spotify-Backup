@@ -3,7 +3,7 @@
 
 Dependencies - Spotipy
 
-Type "pip install spotipy" in powershell
+Type "pip install spotipy" in powershell to collect spotipy dependency
 
 To run type "python spotifyBackup.py [username]" where [username] is your username or ID for spotify
 
